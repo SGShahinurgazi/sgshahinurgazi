@@ -1,7 +1,7 @@
 ![I'm SGShinurGazi]([https://github.com/harun181/harun181/blob/main/code.png](https://scontent.fdac137-1.fna.fbcdn.net/v/t39.30808-6/511126150_697793743179275_8059599906472438743_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGamXgJvTnWMI1OQHLFWSA1r4o96FdmJP6vij3oV2Yk_i-smDa6UVf8XjgvOc4QMc5BCmzLKpO7LGNiEOwxNqZc&_nc_ohc=hOcu1gmDWuoQ7kNvwGJW9XZ&_nc_oc=Adkogn246lLT424P-9n2QH1Ng3oHYa52uytf-ujULiMFnBIDqVqQPL9ekoe7ssCR2P8&_nc_zt=23&_nc_ht=scontent.fdac137-1.fna&_nc_gid=RZX9i6j_--gcf8qe_0mZQA&oh=00_AfOjVPFS_8EDl0qeaI7548AKHQ5gt2uW9usMOWpD67y_Ow&oe=685F09F9))
 
 <h1 align="center">Hey👋, <br> I'm SG🔥Shahinur Gazi </h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner| Edcation class relate expert </h3>
+<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner| Education class relate expert </h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
 <div align="center">
